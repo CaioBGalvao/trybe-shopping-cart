@@ -1,4 +1,4 @@
-# Projeto Shopping Cart
+# Trybe Projeto Shopping Cart
 ## Primeiro projeto do Modulo de Front-End
 
 Nesse projeto era necessário consumir a [API do Mercado Livre](https://api.mercadolibre.com/) para receber informações de produtos.
